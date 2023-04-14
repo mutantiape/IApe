@@ -1,0 +1,12 @@
+{
+  "name": "MutantApeIST",
+  "short_name": "MutantApeIST",
+  "id": "com.example.platformer",
+  "description": "MutantApeIOTAClub quest for IST Coins",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
